@@ -4,9 +4,9 @@
 This repository contains a Python script for extracting data from an API. The script uses the requests library to make HTTP requests to the API, and the json library to parse the JSON responses.
 
 # Requirements
-Jupyter Notebook Python 3
-requests library
-json library
+- Jupyter Notebook Python 3
+- requests library
+- json library
 
 
 # Usage/ Steps
