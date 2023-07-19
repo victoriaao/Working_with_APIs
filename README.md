@@ -1,4 +1,4 @@
-# Working_with_Paginated_APIs
+# Working_with_APIs
 
 # Introduction
 This repository contains a Python script for extracting data from an API. The script uses the requests library to make HTTP requests to the API, and the json library to parse the JSON responses.
